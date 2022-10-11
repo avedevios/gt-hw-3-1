@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C86B0F48-E860-43C4-8A44-53CA03661497"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CC87129-4E94-42C6-96ED-D0DEC2A5631E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gt-hw-3-1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "divButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CC87129-4E94-42C6-96ED-D0DEC2A5631E - 1420ff5f1f6551a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gt_hw_3_1.ViewController.divButton(Any) -&gt; ()"
+                  moduleName = "gt-hw-3-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ake11a/Documents/GitHub/gt-hw-3-1/gt-hw-3-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "6CC87129-4E94-42C6-96ED-D0DEC2A5631E - 1420ff5f1f6551a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gt_hw_3_1.ViewController.divButton(Any) -&gt; ()"
+                  moduleName = "gt-hw-3-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ake11a/Documents/GitHub/gt-hw-3-1/gt-hw-3-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "646">
+               </Location>
+               <Location
+                  uuid = "6CC87129-4E94-42C6-96ED-D0DEC2A5631E - 1420ff5f1f6551a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gt_hw_3_1.ViewController.divButton(Any) -&gt; ()"
+                  moduleName = "gt-hw-3-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ake11a/Documents/GitHub/gt-hw-3-1/gt-hw-3-1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CD2EB81-0827-41AD-9C86-122A0509EB87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gt-hw-3-1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "divButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
